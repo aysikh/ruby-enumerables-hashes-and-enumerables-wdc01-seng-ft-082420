@@ -15,4 +15,4 @@ def select_winner(passengers)
     winner
 end
 
-select_winner
+select_winner(winner)
